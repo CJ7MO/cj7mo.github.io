@@ -35,6 +35,6 @@ Software Developer @ Seguros Bolivar SA(_Sep 2023_, _Feb 2024_).
 ## Data Science Projects
 
 ### Data Vizualisation Projects
-![adidas_sales](/assets/img/adidas_dashboard.png)
+![adidas_sales](/assets/img/adidas_dashboard.png)(https://adidas-sales-dashboard-b6vvppxjmxsiqs8bgsgcv4.streamlit.app/)
 #### Adidas Sales Dashboard
 
