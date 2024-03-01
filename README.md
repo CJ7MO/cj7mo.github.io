@@ -9,7 +9,7 @@
 - Mathematics for Machine Learning and Data Science, Deep Learning AI (_Sep 2023_).
 
 ### Work Experience
-Software Developer @ Seguros Bolivar SA.
+Software Developer @ Seguros Bolivar SA(_Sep 2023_, _Feb 2024_).
 - Design and implement full stack apps.
 - Implement microservices architecture.
 - API RESTful development.
