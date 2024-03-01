@@ -35,6 +35,9 @@ Software Developer @ Seguros Bolivar SA(_Sep 2023_, _Feb 2024_).
 ## Data Science Projects
 
 ### Data Vizualisation Projects
-![adidas_sales](/assets/img/adidas_dashboard.png)(https://adidas-sales-dashboard-b6vvppxjmxsiqs8bgsgcv4.streamlit.app/)
+![adidas_sales](/assets/img/adidas_dashboard.png)
 #### Adidas Sales Dashboard
+This project entails a comprehensive exploratory analysis and visualization of sales data from Adidas outlets. Leveraging Python programming along with Streamlit for interactive visualizations, our primary aim is to extract valuable insights and information from the dataset. 
+streamlit app deployed: https://adidas-sales-dashboard-b6vvppxjmxsiqs8bgsgcv4.streamlit.app/
+github project: https://github.com/CJ7MO/adidas-sales-dashboard
 
