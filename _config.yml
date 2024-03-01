@@ -1,6 +1,6 @@
 title: Cristian Martínez
 logo: /assets/img/logo.png
 description: Portfolio of data science projects.
-#show_downloads: true
+show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal
