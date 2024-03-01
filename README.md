@@ -39,7 +39,7 @@ Software Developer @ Seguros Bolivar SA(_Sep 2023_, _Feb 2024_).
 #### Adidas Sales Dashboard
 This project entails a comprehensive exploratory analysis and visualization of sales data from Adidas outlets. Leveraging Python programming along with Streamlit for interactive visualizations, our primary aim is to extract valuable insights and information from the dataset.
 <br>
-Look up the app: ![Adidas Dashboard](https://adidas-sales-dashboard-b6vvppxjmxsiqs8bgsgcv4.streamlit.app/)
+![Adidas Dashboard](https://adidas-sales-dashboard-b6vvppxjmxsiqs8bgsgcv4.streamlit.app/)
 <br> 
-Look up the github project: ![Github Project](https://github.com/CJ7MO/adidas-sales-dashboard)
+![Github Project](https://github.com/CJ7MO/adidas-sales-dashboard)
 
