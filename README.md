@@ -1,4 +1,4 @@
-# ** Data Scientist **
+# **Data Scientist**
 
 ### Education
 Industrial Engenieer, Universidad Francisco de Paula Santander.
