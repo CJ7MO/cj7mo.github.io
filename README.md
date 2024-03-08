@@ -50,6 +50,14 @@ This project enables the dynamic visualization of ecommerce sales trends over th
 <br>
 [Github project](https://github.com/CJ7MO/DashBoard_interactive_st)
 <br>
+### Accident Map in medellin web app
+![accidents_of_med](https://github.com/CJ7MO/cj7mo.github.io/blob/main/assets/img/accidentsofmedellin.streamlit.app.png)
+This application is a dashboard made with streamlit that can be used to analyze traffic accidents occurred in Medellin and its metropolitan area in the years 2014 - 2021 🏍️💥🚗
+<br>
+[Accidents of Medellín](https://accidentsofmedellin.streamlit.app)
+<br>
+[Github project](https://github.com/CJ7MO/streamlit-Med)
+<br>
 ### Uber ETL pipeline
 ![uber_etl_pipeline](https://github.com/CJ7MO/uber-etl-pipeline-data-engineering-project/blob/main/img/architecture.jpg)
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
