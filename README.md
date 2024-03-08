@@ -34,12 +34,25 @@ Software Developer @ Seguros Bolivar SA(_Sep 2023_, _Feb 2024_).
 
 ## Data Science Projects
 
-### Data Vizualisation Projects
+### Adidas Outlet Dashboard
 ![adidas_sales](/assets/img/adidas_dashboard.png)
-#### Adidas Sales Dashboard
 This project entails a comprehensive exploratory analysis and visualization of sales data from Adidas outlets. Leveraging Python programming along with Streamlit for interactive visualizations, our primary aim is to extract valuable insights and information from the dataset.
 <br>
 [Adidas Dashboard](https://adidas-sales-dashboard-b6vvppxjmxsiqs8bgsgcv4.streamlit.app/)
 <br> 
 [Github Project](https://github.com/CJ7MO/adidas-sales-dashboard)
+<br>
+### Sales Ecommerce Dashboard
+![sales_dashboard](https://github.com/CJ7MO/cj7mo.github.io/blob/main/assets/img/sales_dashboard.png)
+This project enables the dynamic visualization of ecommerce sales trends over the years, offering real-time oversight of both sales and order workflows.
+<br>
+[Sales ECommerce](https://dashboardinteractivest.streamlit.app/)
+<br>
+[Github project](https://github.com/CJ7MO/DashBoard_interactive_st)
+<br>
+### Uber ETL pipeline
+![uber_etl_pipeline](https://github.com/CJ7MO/uber-etl-pipeline-data-engineering-project/blob/main/img/architecture.jpg)
+The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+<br>
+[Github project](https://github.com/CJ7MO/uber-etl-pipeline-data-engineering-project)
 
