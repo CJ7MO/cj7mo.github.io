@@ -43,7 +43,7 @@ This project entails a comprehensive exploratory analysis and visualization of s
 [Github Project](https://github.com/CJ7MO/adidas-sales-dashboard)
 <br>
 ### Sales Ecommerce Dashboard
-![sales_dashboard](https://github.com/CJ7MO/cj7mo.github.io/blob/main/assets/img/sales_dashboard.png)
+![sales_dashboard](assets/img/sales_dashboard.png)
 This project enables the dynamic visualization of ecommerce sales trends over the years, offering real-time oversight of both sales and order workflows.
 <br>
 [Sales ECommerce](https://dashboardinteractivest.streamlit.app/)
@@ -51,7 +51,7 @@ This project enables the dynamic visualization of ecommerce sales trends over th
 [Github project](https://github.com/CJ7MO/DashBoard_interactive_st)
 <br>
 ### Accident Map in medellin web app
-![accidents_of_med](https://github.com/CJ7MO/cj7mo.github.io/blob/main/assets/img/accidentsofmedellin.streamlit.app.png)
+![accidents_of_med](assets/img/accidentsofmedellin.streamlit.app.png)
 This application is a dashboard made with streamlit that can be used to analyze traffic accidents occurred in Medellin and its metropolitan area in the years 2014 - 2021 🏍️💥🚗
 <br>
 [Accidents of Medellín](https://accidentsofmedellin.streamlit.app)
@@ -59,7 +59,7 @@ This application is a dashboard made with streamlit that can be used to analyze 
 [Github project](https://github.com/CJ7MO/streamlit-Med)
 <br>
 ### Uber ETL pipeline
-![uber_etl_pipeline](https://github.com/CJ7MO/uber-etl-pipeline-data-engineering-project/blob/main/img/architecture.jpg)
+![uber_etl_pipeline](assets/img/architecture.jpg)
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 <br>
 [Github project](https://github.com/CJ7MO/uber-etl-pipeline-data-engineering-project)
