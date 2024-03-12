@@ -20,9 +20,9 @@
 </p>
 
 ### Education
-- Industrial Engenieer|Universidad Francisco de Paula Santander at Colombia(_Nov 2023_).
+- Industrial Engenieer|Universidad Francisco de Paula Santander(_Nov 2023_).
 - IBM Data Science|IBM on Coursera(_May 2023_).
-- Mathematics for Machine Learning and Data Science|Deep Learning AI (_Sep 2023_).
+- Mathematics for Machine Learning and Data Science|Deep Learning AI(_Sep 2023_).
 
 ### Work Experience
 Software Developer @ Seguros Bolivar SA(_Sep 2023_, _Feb 2024_).
