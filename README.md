@@ -51,10 +51,10 @@ This project enables the dynamic visualization of ecommerce sales trends over th
 [Github project](https://github.com/CJ7MO/DashBoard_interactive_st)
 <br>
 ### Accident Map in medellin web app
-![accidents_of_med](assets/img/accidentsofmedellin.streamlit.app.png)
+![accidents_of_med](assets/img/med.png)
 This application is a dashboard made with streamlit that can be used to analyze traffic accidents occurred in Medellin and its metropolitan area in the years 2014 - 2021 🏍️💥🚗
 <br>
-[Accidents of Medellín](https://accidentsofmedellin.streamlit.app)
+[Accidents of Medellín](https://accidentesmedellin.streamlit.app/)
 <br>
 [Github project](https://github.com/CJ7MO/streamlit-Med)
 <br>
