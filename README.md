@@ -1,4 +1,4 @@
-# **Data Scientist**
+# ** Industrial Engineer | Data Scientist | Machine Learning Engineer **
 
 #### Technical Skills:
 <p align="left"> 
@@ -23,6 +23,7 @@
 - Industrial Engenieer | Universidad Francisco de Paula Santander (_Nov 2023_).
 - IBM Data Science | IBM on Coursera (_May 2023_).
 - Mathematics for Machine Learning | Deep Learning AI (_Sep 2023_).
+- Machine Learning Specialization | Stanford University & Deep Learning AI (_May 2024_)
 
 ### Work Experience
 Software Developer @ Seguros Bolivar SA(_Sep 2023_, _Feb 2024_).
