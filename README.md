@@ -1,4 +1,4 @@
-# ** Industrial Engineer | Data Scientist | Machine Learning Engineer **
+# **Industrial Engineer | Data Scientist | Machine Learning Engineer**
 
 #### Technical Skills:
 <p align="left"> 
